@@ -1,0 +1,20 @@
+.inputErrors .myApp {
+    min-height: 48px; }
+
+.inputErrors md-input-container > p {
+    font-size: 0.8em;
+    text-align: left;
+    width: 100%; }
+
+table {
+    width: 100%;
+}
+
+div.a {
+    text-align: center;
+}
+
+label.b {
+    font-weight: bold;
+    text-decoration-color: #880000;
+}
